@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/akobyansamvel/todo-app.git/static/css/main.2d8c9062.css",
+    "main.js": "/akobyansamvel/todo-app.git/static/js/main.2754d0d6.js",
+    "static/js/453.ac79db8d.chunk.js": "/akobyansamvel/todo-app.git/static/js/453.ac79db8d.chunk.js",
+    "index.html": "/akobyansamvel/todo-app.git/index.html",
+    "main.2d8c9062.css.map": "/akobyansamvel/todo-app.git/static/css/main.2d8c9062.css.map",
+    "main.2754d0d6.js.map": "/akobyansamvel/todo-app.git/static/js/main.2754d0d6.js.map",
+    "453.ac79db8d.chunk.js.map": "/akobyansamvel/todo-app.git/static/js/453.ac79db8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d8c9062.css",
+    "static/js/main.2754d0d6.js"
+  ]
+}
